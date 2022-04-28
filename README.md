@@ -11,7 +11,7 @@ The different cell types in focus are listed below:
 - T5: eosinophil
 - T6: connective
 
-Comprehensive EDA is carried out to identify features that correlate with the target output and model around them. This includes mapping the images to
+Comprehensive EDA is carried out to identify features that correlate with the target variable and model around them. This includes mapping the images to
 `Haematoxylin-Eosin-DAB(HED)` space as the H-channel 'stains' the image to highlight the cells we are interested in. `Gray Level Co-occurence Matrix` features were also found to add value to the predictor.
 
 Different approaches are analysed, from classic `Ordinary Least Squares(OLS)` regression to a pre-trained `ResNet18` model to see what works best for this task.
