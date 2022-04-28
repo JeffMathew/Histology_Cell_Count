@@ -1,6 +1,6 @@
 # Histology_Cell_Count
 
-This work aims to predict counts of different cell types from images of human body tissues. Data used for this project was sourced from the CoNIC: Colon Nuclei Identification and Counting Challenge - please see https://github.com/TissueImageAnalytics/CoNIC and https://arxiv.org/abs/2111.14485
+This work aims to predict counts of different cell types from images of human body tissues. Data used for this project was sourced from the CoNIC: Colon Nuclei Identification and Counting Challenge. Please see https://github.com/TissueImageAnalytics/CoNIC and https://arxiv.org/abs/2111.14485 for more information regarding this challenge.
 
 The different cell types in focus are listed below:
 
